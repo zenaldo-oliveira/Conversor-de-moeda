@@ -1,7 +1,7 @@
 <h1 aling="center">
 <h2> ✅ Conversor-Money </h2>
 </h1>
-<h3>✅ Esse foi um projeto que eu aprendi no✅ <a href="https://aulas.devclub.com.br/m/restrict">FIGMA</a></h3>
+<h3>✅ Esse foi um projeto que eu aprendi no✅ <a href="https://www.figma.com/file/9JDIdFDjYDVL5VGzw8Mc4b/DevClub---Convert-Money?type=design&node-id=25-104&mode=design&t=K4JUUIXcfL79D3L0-0">FIGMA</a></h3>
 <h4>tecnologias ultilizadas</h4>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
